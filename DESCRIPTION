@@ -12,3 +12,7 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.1
 URL: https://github.com/norazhou0/xkcd
 BugReports: https://github.com/norazhou0/xkcd/issues
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
